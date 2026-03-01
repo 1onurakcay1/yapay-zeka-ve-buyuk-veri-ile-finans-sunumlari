@@ -14,7 +14,7 @@ Bağlantıya tıkladığınızda dosya doğrudan indirilebilir; indirerek görü
 ### Hafta 1 – Yapay Zekâ ve Makine Öğrenmesine Akademik Giriş
 Artificial Intelligence (AI), Machine Learning (ML), Deep Learning, Bias–Variance Tradeoff ve Generalization kavramlarının teorik temelleri ele alınmıştır.
 
-PDF(2.3MB):
+PDF (2.3 MB):  
 https://raw.githubusercontent.com/1onurakcay1/yapay-zeka-makine-ogrenmesi-akademik-sunum/main/Onur_Muhammet_Akcay_Yapay_Zeka_Makine_Ogrenmesi_2026.pdf
 
 ---
