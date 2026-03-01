@@ -2,10 +2,11 @@
 
 Bu çalışma, İstanbul Ticaret Üniversitesi kapsamında hazırlanmış akademik bir sunumdur.
 
+---
 
 ## PDF Dosyası
 
-Bu linke tıkladığınızda, 2.3mb'lık PDF bilgisayarınıza inecektir. PDF'i sıkıştırdığım için, GitHub tarafından encode edilemiyor bazen. İndirip bakabilirsiniz.
+Not: GitHub önizleme sistemi bazı durumlarda PDF dosyalarını tarayıcı içinde görüntüleyemeyebilir. Bu durumda dosya doğrudan indirilebilir.
 
 [Sunumu Görüntüle](https://raw.githubusercontent.com/1onurakcay1/yapay-zeka-makine-ogrenmesi-akademik-sunum/main/Onur_Muhammet_Akcay_Yapay_Zeka_Makine_Ogrenmesi_2026.pdf)
 
